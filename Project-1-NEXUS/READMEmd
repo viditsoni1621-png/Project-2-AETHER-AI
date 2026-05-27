@@ -1,0 +1,49 @@
+# NEXUS Personal OS
+
+A cyberpunk-inspired AI productivity terminal built using Python.
+
+## Features
+
+- Task management
+- Mood tracking
+- Focus mode
+- XP & leveling system
+- Persistent memory using JSON
+- Cyberpunk terminal UI
+- Matrix mode
+- Hidden easter eggs
+
+## Technologies Used
+
+- Python
+- Rich
+- Pyfiglet
+- JSON
+- Streamlit
+
+## Commands
+
+| Command | Description |
+|---|---|
+| help | Show commands |
+| task add | Add task |
+| show tasks | View tasks |
+| mood log | Log mood |
+| motivate | Motivation quote |
+| focus start | Start focus timer |
+| brief today | Daily briefing |
+| matrix | Secret effect |
+| self destruct | Joke countdown |
+
+## Installation
+
+```bash
+git clone YOUR_GITHUB_LINK
+cd NEXUS-Personal-OS
+pip install -r requirements.txt
+python nexus.py
+```
+
+## Author
+
+Vidit Soni

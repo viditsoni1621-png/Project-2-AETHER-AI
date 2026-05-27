@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AETHER AI
 
 > Futuristic Fraud Detection Intelligence Dashboard powered by Machine Learning.
@@ -149,3 +150,38 @@ Vidit Soni
 # Status
 
 Currently under active development.
+=======
+# DecodeLabs Internship Projects
+
+A collection of projects built during my DecodeLabs internship journey.
+
+---
+
+# Projects
+
+## Project 1 — NEXUS Personal OS
+
+Cyberpunk-inspired AI productivity terminal built using Python.
+
+### Features
+- Task manager
+- Mood tracker
+- Focus mode
+- XP & rank system
+- Persistent memory
+- Streamlit web app
+
+### Technologies
+- Python
+- Rich
+- Streamlit
+- JSON
+
+📁 Folder: `Project-1-NEXUS`
+
+---
+
+## Project 2 — Coming Soon
+
+Upcoming project.
+>>>>>>> 87d0a3cee62ee7390d8f0573c3fb094035858c84
