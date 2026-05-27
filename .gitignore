@@ -52,3 +52,6 @@ dist/
 
 # Runtime Files
 *.sqlite3
+data/creditcard.csv
+venv/
+__pycache__/
