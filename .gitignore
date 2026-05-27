@@ -1,4 +1,54 @@
+# Virtual Environment
 venv/
+env/
+ENV/
+
+# Python Cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mac / Windows System Files
 .DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Large Dataset Files
+data/creditcard.csv
+
+# Generated Reports
+*.pdf
+
+# Streamlit Cache
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Temporary Files
+temp/
+tmp/
+
+# Build Files
+build/
+dist/
+
+# Python Packaging
+*.egg-info/
+
+# Model Checkpoints (optional)
+*.h5
+*.pt
+*.pth
+
+# Runtime Files
+*.sqlite3
