@@ -78,13 +78,6 @@ AETHER-AI/
 * Personalized user profiles
 * Advanced memory and context retention
 * Integration with external APIs and services
-
----
-
-## 📸 Project Preview
-
-Add screenshots or demo GIFs here.
-
 ---
 
 ## 👨‍💻 Developer
