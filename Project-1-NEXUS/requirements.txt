@@ -1,4 +1,0 @@
-rich 
-colorama
-pyfiglet
-streamlit
